@@ -1,5 +1,5 @@
-# ungdc
-This is an analysis of the UN General Debate Corpus (UNGDC) from a computational social science perspective.
+# Analysis of the UN General Debate from the Perspective of Sociology
+This is an analysis of the UN General Debate Corpus (UNGDC).
 
 The  presentation demonstrates the promising opportunities when combining sociological inquiries with methods of Natural language Processing (NLP). The talk was given together with Sophie Mützel in the session Computational Social Science at the "39. Kongress der Deutschen Gesellschaft für Soziologie, 2018, Göttingen".
 
